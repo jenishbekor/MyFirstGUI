@@ -21,7 +21,8 @@ public class HelloController {
 
     @FXML
     protected void onViewSelect(){
-        inputText.setText("Zhenishbek");
+
+        inputText.setText("Hello");
     }
 
     @FXML
